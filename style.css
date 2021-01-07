@@ -73,7 +73,7 @@
         font-size: 1.2rem;
         font-weight: 600;
         color: rgba(10, 10, 10, 0.7);
-        height: calc((400px - 16px) / 4);
+        height: calc((300px - 6px) / 4);
         transition: 0.4s;
         border-radius: 50%;
         cursor: pointer;
